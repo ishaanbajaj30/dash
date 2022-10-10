@@ -1,0 +1,211 @@
+Internship Content
+
+
+Page 1:
+Isper likhna hai Internship Report  and  duration june-july 2022
+
+
+Page 2: ACKNOWLEDGEMENT(from 1)
+
+
+
+It gives a great pleasure in presenting the internship report on “Project - 
+HR Dashboard" which is used for better data visulaization . It was a golden opportunity for me and it will remain a great learning 
+and personal development experience in my career. The level of professionalism, 
+discipline, and cooperation being practiced here has been the most important learning for 
+me. 
+I wish to extend sincere gratitude to Respected Rajinder Gupta (Chairperson of Trident 
+Ltd.), Ms. Pooja Luthra (Group Chief Human Resources Officer), Ms. Rechal Parche
+(HR) and Ms. Poorva Bajaj (HR) for giving me an opportunity to undergo this internship. 
+
+I would also like to extend my sincere gratitude towards my Supervisor 
+Mr Rajesh Srivastava for providing me with ample guidance, support throughout the 
+duration of my internship. Encouragement extended by him helped me in completing the 
+project work and training program. Then I would also like to thank <Name> , <Name>  
+and <Name>  for their helpful guidance on improving the project. 
+Last but not the least I am very much grateful to my 
+team and all staff member and people of Trident Ltd. and TIET  who helped me in the 
+entire duration of this internship as well as my project.
+In the tenure I stayed there, apart from the technical aspects, I have learnt the important 
+aspects that make an organisation successful. The work culture of Trident Group has 
+taught me the need for discipline, dedication and cooperation required to reach high 
+standards. Finally, yet importantly I am thankful to my family and friends for supporting 
+me and to Training and Placement Cell Of TIET for a smooth and enriching internship 
+experience
+
+Page 3:
+About me (Will send)
+
+
+Page 4: About the company
+
+Established in 1990, Trident Limited (hereafter referred to as the Company) is
+the flagship company of the dynamic and growth-oriented USD 1 billion Trident
+Group. Founded by Mr Rajinder Gupta, Chairman and first-generation
+entrepreneur, the Company is one among the top five global terry towel giants
+of the world. Headquartered in Ludhiana, Punjab, it is the largest player in
+terms of terry towel capacity and one of the biggest players in home textiles in
+India. From being a solitary yarn manufacturer, the Company has transformed
+into one of the largest state-of-the-art integrated home textile and paper
+manufacturers globally. Trident is a leading manufacturer of yarn, bath linen, bed linen, wheat straw- based paper, chemicals, and captive power. In 2016, the Company ventured
+into the bed linen space by commissioning a facility in Budni, a town in the
+state of Madhya Pradesh. The Company has three state-of-the-art
+manufacturing facilities, two in Barnala, Punjab and one in Budni. It has
+marketing offices spread across the country in Chandigarh, Bhopal, Gurgaon, Delhi and Surat and internationally in New York, USA and Warrington in
+Cheshire, United Kingdom. The Company has spread its footprint in over 150
+countries worldwide.
+
+Page 6 : INFLUENCE OF TRIDENT (from 1)
+
+Page 7 : H E I R A R C H Y(from 2)
+KARMAYOGI
+GURU
+BRAHMASEVAK
+
+Page 8-10 (from 2)
+Insight about Sheeting Plant 
+Trident’s sheeting division takes distinction in it’s singular composite 
+sheeting plant with 1,90,000 dedicated compact spindles. With 500 
+high speed looms, continuous processing, cutting and fully automatic. 
+Trident’s sheeting division takes distinction in it’s singular composite 
+sheeting plant with 1,90,000 dedicated compact spindles. With 500 
+high speed looms, continuous processing, cutting and fully automatic 
+cutting and stitching systems. The sheeting facility at Budhni promises 
+quality along with delivering numbers
+Insight About Terry Towel Unit
+Located in Budhni and covering a kilometre is the World’s largest Terry 
+Towel Plant with advanced manufacturing capabilities. Here the stateof-the -art production facilities include processes such as spinning, 
+wide width air jet, soft flow dyeing and fully automated cutting and 
+sewing for towels. There’s more than just manufacturing excellence at 
+Tridents’s Budhni Facility.
+Insight About Yarn Unit
+Trident Yarn started off in the year 1993, in Punjab, with a modest 
+beginning of 17,280 spindles. With its state-of-the-art technology and 
+then manufacturing units, the company constantly innovates to 
+enhance its product portfolio
+Today, Trident has emerged as one of the eminent manufacturers 
+and suppliers on high performance knitting and weaving yarn.
+
+Page 11 : Products (from 2)
+
+Page 12: SUSTAINABILITY AT TRIDENT (from1)((from2)ka design bhi aacha hai)
+
+Page 13: INDUSTRY 4.0 AT TRIDENT (from1)
+
+Page 14 : Culture (from 2)
+
+
+Page 15 : Problem Statement for Internship
+To create a web application that will help for  expeditious and facile data analysis of ongoing HR scenerio
+
+
+Page 16 - your choice : Solution (Will provide icons of libraries and dashbord )(Might give you more data)
+I therefore built a dashboard to aid the team in data analysis after considering the issues and challenges they are currently facing.
+After considering every requirement, I made the decision to choose Python as the foundation for my dashboard project.
+I created the dashboard using a variety of python libraries, including the following:
+Streamlit:
+Streamlit is an open-source Python library that makes it easy to create and share beautiful, custom web apps for machine learning and data science.The platform uses python scripting, APIs, widgets, instant deployment, team collaboration tools, and application management solutions to help data scientists and machine learning engineers create python-based applications..It is compatible with major Python libraries such as scikit-learn, Keras, PyTorch, SymPy(latex), NumPy, pandas, Matplotlib etc. 
+Pandas:
+pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language.In particular, it offers data structures and operations for manipulating numerical tables and time series.The name is derived from the term "panel data", an econometrics term for data sets that include observations over multiple time periods for the same individuals.[4] Its name is a play on the phrase "Python data analysis" itself.Pandas allows importing data from various file formats such as comma-separated values, JSON, Parquet, SQL database tables or queries, and Microsoft Excel.[9] Pandas allows various data manipulation operations such as merging,[10] reshaping,[11] selecting,[12] as well as data cleaning, and data wrangling features. 
+Plotly:
+The plotly Python library is an interactive, open-source plotting library that supports over 40 unique chart types covering a wide range of statistical, financial, geographic, scientific, and 3-dimensional use-cases.It  enables Python users to create beautiful interactive web-based visualizations that can be displayed in Jupyter notebooks, saved to standalone HTML files, or served as part of pure Python-built web applications using Dash. The plotly Python library is sometimes referred to as "plotly.py" to differentiate it from the JavaScript library.
+No internet connection, account, or payment is required to use any of above mentioned library
+
+So I created a dashboard with interactive bar charts and pie charts using the libraries described above. Additionally, Dashboard contains a choropleth map that will show the Indian states where our employees are from. For better, more precise, and more focused data analysis, I have also included a variety of filter choices. The user can also download multiple graphs from the platform for use in reports and presentations.
+
+
+Page idk: Challenges Faced:(isko points me bhi likh sktey )
+Well, this project's development process didn't present any significant obstacles. Throughout this project, everyone was encouraging. But some of the difficulties I encountered were the process of first creating precise goals and objectives, which I was able to complete once I sat down with the team and wrote down all the requirements. The privacy policy of Trident, presented another difficulty for me because I was unable to use real data throughout the development stage and was instead asked to use dummy data.
+
+Page idk+1:Conclusion and future prospects:(dekhlio english sahi hai?)
+The project's goal was to minimise the time and labour required for continuing HR scenario data analysis. This project meets all goals set by the team  and may be utilised for quick and simple data analysis. It may be accessed from anywhere on the Trident network and has been deployed at url <>. In this two-month internship, I got to learn a lot. I got hands-on experience with a lot of technologies. Other than this, I got a great opportunity to inculcate many other interpersonal skills aswell. By working with different teams, I learnt to multi-task, work in a team, exercise flexibility, solve problems and much more. The work I carried out there gave me much required experience with working methodologies, time management, management of individuals and much more.
+
+As the company is rapidly growing worldwide, an enormous amount of data is been generated, and it can take a lot of time and effort by employees to analysis data from various departments, so we can pool our efforts and create a universal dashboard that can be used by all departments, making data analysis smoother. Furthermore, it will reduce the team's effort and time spent on data analysis, that can be used for other tasks.
+
+
+
+Python is powerful... and fast;
+plays well with others;
+runs everywhere;
+is friendly & easy to learn;
+is Open.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Problem Statement:
+To get quicker andbetter easier facile expeditious analysis
+ on ongoing activites/scenerio fi hr
+
+Objective:
+To create a web application that will help for  expeditious and facile data analysis of ongoing HR scenerio
+
+Solution:
+I therefore built a dashboard to aid the team in data analysis after considering the issues and challenges they are currently facing.
+After considering every requirement, I made the decision to choose Python as the foundation for my dashboard project.
+I created the dashboard using a variety of python libraries, including the following:
+Streamlit:
+Streamlit is an open-source Python library that makes it easy to create and share beautiful, custom web apps for machine learning and data science.The platform uses python scripting, APIs, widgets, instant deployment, team collaboration tools, and application management solutions to help data scientists and machine learning engineers create python-based applications..It is compatible with major Python libraries such as scikit-learn, Keras, PyTorch, SymPy(latex), NumPy, pandas, Matplotlib etc. 
+Pandas:
+pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language.In particular, it offers data structures and operations for manipulating numerical tables and time series.The name is derived from the term "panel data", an econometrics term for data sets that include observations over multiple time periods for the same individuals.[4] Its name is a play on the phrase "Python data analysis" itself.Pandas allows importing data from various file formats such as comma-separated values, JSON, Parquet, SQL database tables or queries, and Microsoft Excel.[9] Pandas allows various data manipulation operations such as merging,[10] reshaping,[11] selecting,[12] as well as data cleaning, and data wrangling features. 
+Plotly:
+The plotly Python library is an interactive, open-source plotting library that supports over 40 unique chart types covering a wide range of statistical, financial, geographic, scientific, and 3-dimensional use-cases.It  enables Python users to create beautiful interactive web-based visualizations that can be displayed in Jupyter notebooks, saved to standalone HTML files, or served as part of pure Python-built web applications using Dash. The plotly Python library is sometimes referred to as "plotly.py" to differentiate it from the JavaScript library.
+No internet connection, account, or payment is required to use any of above mentioned library
+
+So I created a dashboard with interactive bar charts and pie charts using the libraries described above. Additionally, Dashboard contains a choropleth map that will show the Indian states where our employees are from. For better, more precise, and more focused data analysis, I have also included a variety of filter choices. The user can also download multiple graphs from the platform for use in reports and presentations.
+
+Challenge:
+Well, this project's development process didn't involve any significant obstacles. Everyone offered encouragement as this effort progressed. Setting clear goals and objectives was originally a difficult process, but it was overcome when I got down with the team and wrote out all the requirements. The privacy policy, Trident, presented another difficulty for me because I was unable to use real data throughout the development phase and was instead asked to use dummy data.
+
+
+Conclusion and future prospects:
+The project's goal was to minimise the time and labour required for continuing HR scenario data analysis. This project meets all goals set by the team  and may be utilised for quick and simple data analysis. It may be accessed from anywhere on the Trident network and has been deployed at url <>. In this two-month internship, I got to learn a lot. I got hands-on experience with a lot of technologies. Other than this, I got a great opportunity to inculcate many other interpersonal skills aswell. By working with different teams, I learnt to multi-task, work in a team, exercise flexibility, solve problems and much more. The work I carried out there gave me much required experience with working methodologies, time management, management of individuals and much more.
+
+As the company is rapidly growing worldwide, an enormous amount of data is been generated, and it can take a lot of time and effort by employees to analysis data from various departments, so we can pool our efforts and create a universal dashboard that can be used by all departments, making data analysis smoother. Furthermore, it will reduce the team's effort and time spent on data analysis, that can be used for other tasks.
+
+
+Features
+Filetype
